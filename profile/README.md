@@ -82,6 +82,32 @@ https://ytmous.herokuapp.com
 
 It is now dead as Heroku stop providing free dynos and being replaced as https://ytmous.yonle.repl.co
 
+#### 14. Will you add features like SponsorBlock / BringBackDislike?
+No. I do not want to rely or even trust with third parties.
+
+#### 15. Did the ytmous server that i am using right now logs my activities?
+There's no guarantee whenever the ytmous server owner logs incomming traffics or no. It is all depends on whenever you trust the server owner or no.
+
+#### 16. Can i sponsor you?
+No.
+
+#### 17. Did your project sponsored by anybody else?
+No.
+
+#### 18. Can i donate you?
+No.
+
+#### 19. Could you rewrite this into X programming languange?
+No. Fork it in your own.
+
+#### 20. Could i use this for commercial purposes?
+Until Google sue you
+
+#### 21. Could you add/remove X feature?
+Depending on the feature that you asked.
+
+Third party features is **__a big no no.__** If you still want it, Fork it.
+
 ## Maintainer
 Till today, I ([Yonle](https://yonle.github.io)) am the creator, but also still the one who maintain and often update the ytmous source code even there's still small amount of Contributors from around the world.
 
@@ -100,4 +126,4 @@ Till today, I ([Yonle](https://yonle.github.io)) am the creator, but also still 
 - The ones that use or hosting ytmous,
 - The ones that help contribute the ytmous code,
 
-- Also **You**.
+- And **You**.
