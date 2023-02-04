@@ -108,6 +108,15 @@ Depending on the feature that you asked.
 
 Third party features is **__a big no no.__** If you still want it, Fork it.
 
+#### 22. Can i pay you billion of dollars so you close source this?
+No.
+
+#### 23. Please i beg you, i will pay you billion of dollars to implement X feature (or i will die in your face)
+No.
+
+#### 24. My dog died because of ytmous
+Your dog died due to lack of owner responsibilities
+
 ## Maintainer
 Till today, I ([Yonle](https://yonle.github.io)) am the creator, but also still the one who maintain and often update the ytmous source code even there's still small amount of Contributors from around the world.
 
