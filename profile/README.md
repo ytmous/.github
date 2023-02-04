@@ -135,6 +135,9 @@ No.
 #### 30. Can i make a waifu of ytmous?
 Go ahead, you god damn weeb.
 
+#### 31. Are you gay / lesbian / trans / LGBT ?
+No.
+
 ## Maintainer
 Till today, I ([Yonle](https://yonle.github.io)) am the creator, but also still the one who maintain and often update the ytmous source code even there's still small amount of Contributors from around the world.
 
