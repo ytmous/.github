@@ -138,6 +138,11 @@ Go ahead, you god damn weeb.
 #### 31. Are you gay / lesbian / trans / LGBT ?
 No.
 
+#### 32. Why you said "The ocean is soup" in your personal website lmfao
+The first question that you need to ask is **__why global warming just kept increasing by day to day and why it never got decreased__**
+
+And yep, Due to Global warming that cook the ocean every morning, That's why the ocean is soup.
+
 ## Maintainer
 Till today, I ([Yonle](https://yonle.github.io)) am the creator, but also still the one who maintain and often update the ytmous source code even there's still small amount of Contributors from around the world.
 
