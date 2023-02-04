@@ -115,7 +115,25 @@ No.
 No.
 
 #### 24. My dog died because of ytmous
-Your dog died due to lack of owner responsibilities
+Your dog died due to lack of your responsibilities
+
+#### 25. You are dumb/noob
+So do you.
+
+#### 26. Do you happy with ytmous?
+**__I am gravely disappointed__**
+
+#### 27. Are ytmous tries to replace X?
+No.
+
+#### 28. Is this project a copy of X?
+No.
+
+#### 29. Are you Braindead Bird user?
+No.
+
+#### 30. Can i make a waifu of ytmous?
+Go ahead, you god damn weeb.
 
 ## Maintainer
 Till today, I ([Yonle](https://yonle.github.io)) am the creator, but also still the one who maintain and often update the ytmous source code even there's still small amount of Contributors from around the world.
